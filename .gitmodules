@@ -1,0 +1,3 @@
+[submodule "server/submodules/sqlmap"]
+	path = server/submodules/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git

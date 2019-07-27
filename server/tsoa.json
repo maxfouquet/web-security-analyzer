@@ -1,0 +1,12 @@
+    
+{
+	"swagger": {
+		"outputDirectory": "./src/swagger",
+		"entryFile": "./src/config/express.ts"
+	},
+	"routes": {
+		"basePath": "/",
+		"entryFile": "./src/config/express.ts",
+		"routesDir": "./src/routes"
+	}
+}
