@@ -8,7 +8,7 @@ export default class Python {
     }
 
     execute(url: string) {
-        const py = spawn('python', [this._script, "-u", url])
+        const py = spawn('python', [this._script, '-u', url])
         return py
     }
 }
